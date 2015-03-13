@@ -17,7 +17,7 @@ angularApp.factory('SupCache', function($cacheFactory){
 
 },{"./controller/main.js":"/home/ralmn/Developpement/SiteWeb/sp-plugins-list/angular/controller/main.js","./controller/view.js":"/home/ralmn/Developpement/SiteWeb/sp-plugins-list/angular/controller/view.js"}],"/home/ralmn/Developpement/SiteWeb/sp-plugins-list/angular/controller/main.js":[function(require,module,exports){
 module.exports = function($scope, $http, SupCache){
-	$http.get('./plugins.json')
+	$http.get('./plugins.json?' + Date.now())
 		.success(function(data, source, headers, config){
 			$scope.plugins = data;
 			SupCache.put('plugins', data);
@@ -32,7 +32,7 @@ module.exports = function($scope, $route, SupCache, $http){
 	if(plugins){
 		updateContent(plugins);
 	}else{
-		$http.get('./plugins.json').success(function(data){
+		$http.get('./plugins.json?' + Date.now()).success(function(data){
 			updateContent(data);
 		})
 	}

@@ -6,7 +6,7 @@ module.exports = function($scope, $route, SupCache, $http){
 	if(plugins){
 		updateContent(plugins);
 	}else{
-		$http.get('./plugins.json').success(function(data){
+		$http.get('./plugins.json?' + Date.now()).success(function(data){
 			updateContent(data);
 		})
 	}
