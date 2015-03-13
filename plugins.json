@@ -22,11 +22,5 @@
 		"author":  "Florent POUJOL",
 		"repoLink":  "https://github.com/florentpoujol/superpowers-flang-plugin",
 		"readmeLink": "https://raw.githubusercontent.com/florentpoujol/superpowers-flang-plugin/master/readme.md"
-	},
-	{
-		"name": "superpowers-tween.js",
-		"author":  "Florent POUJOL",
-		"repoLink":  "https://github.com/florentpoujol/superpowers-tween.js",
-		"readmeLink": "https://raw.githubusercontent.com/florentpoujol/superpowers-tween.js/master/readme.md"
 	}
 ]
