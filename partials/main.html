@@ -1,0 +1,7 @@
+<div class="list-group">
+  <a href="#/plugin/{{plugin.name}}/{{plugin.author}}" class="list-group-item" ng-repeat="plugin in plugins |filter : searchBar">
+    <span class="badge">{{plugin.author}}</span>
+    {{plugin.name}}
+    
+  </a>
+</div>

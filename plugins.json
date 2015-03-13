@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Text asset",
+		"author":  "Florent POUJOL",
+		"repoLink":  "https://github.com/florentpoujol/superpowers-text-asset-plugin",
+		"readmeLink": "https://raw.githubusercontent.com/florentpoujol/superpowers-text-asset-plugin/master/readme.md"
+	},
+	{
+		"name": "dat.GUI",
+		"author":  "Florent POUJOL",
+		"repoLink":  "https://github.com/florentpoujol/superpowers-dat-gui-plugin",
+		"readmeLink": "https://raw.githubusercontent.com/florentpoujol/superpowers-dat-gui-plugin/master/readme.md"
+	},
+	{
+		"name": "fTween",
+		"author":  "Florent POUJOL",
+		"repoLink":  "https://github.com/florentpoujol/superpowers-ftween-plugin",
+		"readmeLink": "https://raw.githubusercontent.com/florentpoujol/superpowers-ftween-plugin/master/readme.md"
+	},
+	{
+		"name": "fLang",
+		"author":  "Florent POUJOL",
+		"repoLink":  "https://github.com/florentpoujol/superpowers-flang-plugin",
+		"readmeLink": "https://raw.githubusercontent.com/florentpoujol/superpowers-flang-plugin/master/readme.md"
+	},
+	{
+		"name": "superowers-tween.js",
+		"author":  "Florent POUJOL",
+		"repoLink":  "https://github.com/florentpoujol/superpowers-tween.js",
+		"readmeLink": "https://raw.githubusercontent.com/florentpoujol/superpowers-tween.js/master/readme.md"
+	}
+]
