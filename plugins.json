@@ -22,5 +22,13 @@
 		"author":  "Florent POUJOL",
 		"repoLink":  "https://github.com/florentpoujol/superpowers-flang-plugin",
 		"readmeLink": "https://raw.githubusercontent.com/florentpoujol/superpowers-flang-plugin/master/readme.md"
+	},
+	{
+		"name": "Superpowers Text plugin",
+		"author" : "ralmn",
+		"repoLink": "https://github.com/ralmn/superpowers-text-plugin",
+		"readmeLink": "https://raw.githubusercontent.com/ralmn/superpowers-text-plugin/master/README.md"
+		
+	}
 	}
 ]
