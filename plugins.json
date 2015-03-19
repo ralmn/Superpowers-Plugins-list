@@ -24,11 +24,24 @@
 		"readmeLink": "https://raw.githubusercontent.com/florentpoujol/superpowers-flang-plugin/master/readme.md"
 	},
 	{
-		"name": "Superpowers Text plugin",
+		"name": "Text plugin",
 		"author" : "ralmn",
 		"repoLink": "https://github.com/ralmn/superpowers-text-plugin",
 		"readmeLink": "https://raw.githubusercontent.com/ralmn/superpowers-text-plugin/master/README.md"
 		
+	},
+	{
+		"name": "THREE.js plugin",
+		"author":  "Florent POUJOL",
+		"repoLink":  "https://github.com/florentpoujol/superpowers-threejs-plugin",
+		"readmeLink": "https://raw.githubusercontent.com/florentpoujol/superpowers-threejs-plugin/master/readme.md"
+	},
+	{
+		"name": "DOM plugin",
+		"author":  "Florent POUJOL",
+		"repoLink":  "https://github.com/florentpoujol/superpowers-dom-plugin",
+		"readmeLink": "https://raw.githubusercontent.com/florentpoujol/superpowers-dom-plugin/master/readme.md"
 	}
+	
 
 ]
