@@ -41,6 +41,12 @@
 		"author":  "Florent POUJOL",
 		"repoLink":  "https://github.com/florentpoujol/superpowers-dom-plugin",
 		"readmeLink": "https://raw.githubusercontent.com/florentpoujol/superpowers-dom-plugin/master/readme.md"
+	},
+	{
+		"name": "Camera Preview plugin",
+		"author":  "ralmn",
+		"repoLink":  "https://github.com/ralmn/superpowers-camera-preview-plugin",
+		"readmeLink": "https://raw.githubusercontent.com/ralmn/superpowers-camera-preview-plugin/master/readme.md"
 	}
 	
 
