@@ -10,7 +10,7 @@ For add your plugin, you will need to edit the plugins.json and pull request wit
 
 ###Instalation
 
-Require python2.7 with [GitPython Module](gitpython.readthedocs.org/en/latest/)
+Require python2.7 with [GitPython Module](http://gitpython.readthedocs.org/en/latest/)
 
 ####Usage
 `./script.py [plugin folder path]`
