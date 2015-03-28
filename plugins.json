@@ -24,10 +24,10 @@
 		"readmeLink": "https://raw.githubusercontent.com/florentpoujol/superpowers-flang-plugin/master/readme.md"
 	},
 	{
-		"name": "Text plugin",
+		"name": "Font plugin",
 		"author" : "ralmn",
-		"repoLink": "https://github.com/ralmn/superpowers-text-plugin",
-		"readmeLink": "https://raw.githubusercontent.com/ralmn/superpowers-text-plugin/master/README.md"
+		"repoLink": "https://github.com/ralmn/superpowers-font-plugin",
+		"readmeLink": "https://raw.githubusercontent.com/ralmn/superpowers-font-plugin/master/README.md"
 		
 	},
 	{
