@@ -47,6 +47,12 @@
 		"author":  "ralmn",
 		"repoLink":  "https://github.com/ralmn/superpowers-camera-preview-plugin",
 		"readmeLink": "https://raw.githubusercontent.com/ralmn/superpowers-camera-preview-plugin/master/readme.md"
+	},
+	{
+		"name": "Docs browser",
+		"author":  "Florent POUJOL",
+		"repoLink":  "https://github.com/florentpoujol/superpowers-docs-browser-plugins",
+		"readmeLink": "https://raw.githubusercontent.com/florentpoujol/superpowers-docs-browser-plugins/master/readme.md"
 	}
 	
 
