@@ -6,7 +6,7 @@ For add your plugin, you will need to edit the plugins.json and pull request wit
 
 ## Download & Update plugins script
 
-###Instalation
+###Installation
 
 Require python2.7 with [GitPython Module](http://gitpython.readthedocs.org/en/latest/)
 
