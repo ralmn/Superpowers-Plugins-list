@@ -46,13 +46,31 @@
 		"name": "Camera Preview plugin",
 		"author":  "ralmn",
 		"repoLink":  "https://github.com/ralmn/superpowers-camera-preview-plugin",
-		"readmeLink": "https://raw.githubusercontent.com/ralmn/superpowers-camera-preview-plugin/master/readme.md"
+		"readmeLink": "https://raw.githubusercontent.com/ralmn/superpowers-camera-preview-plugin/master/README.md"
 	},
 	{
 		"name": "Docs browser",
 		"author":  "Florent POUJOL",
 		"repoLink":  "https://github.com/florentpoujol/superpowers-docs-browser-plugins",
 		"readmeLink": "https://raw.githubusercontent.com/florentpoujol/superpowers-docs-browser-plugins/master/readme.md"
+	},
+	{
+		"name": "Socket.io client plugin",
+		"author":  "fraxken",
+		"repoLink":  "https://github.com/fraxken/Superpowers-socketio-client-plugin",
+		"readmeLink": "https://raw.githubusercontent.com/fraxken/Superpowers-socketio-client-plugin/master/README.md"
+	},
+	{
+		"name": "TypeScript server plugin",
+		"author":  "ralmn",
+		"repoLink":  "https://github.com/ralmn/superpowers-typescript-server-plugin",
+		"readmeLink": "https://raw.githubusercontent.com/ralmn/superpowers-typescript-server-plugin/master/README.md"
+	},
+	{
+		"name": "Socket.IO client & server plugin",
+		"author":  "ralmn",
+		"repoLink":  "https://github.com/ralmn/superpowers-socketio-plugin",
+		"readmeLink": "https://raw.githubusercontent.com/ralmn/superpowers-socketio-plugin/master/README.md"
 	}
 	
 
