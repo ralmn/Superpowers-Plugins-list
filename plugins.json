@@ -55,12 +55,6 @@
 		"readmeLink": "https://raw.githubusercontent.com/florentpoujol/superpowers-docs-browser-plugins/master/readme.md"
 	},
 	{
-		"name": "Socket.io client plugin",
-		"author":  "fraxken",
-		"repoLink":  "https://github.com/fraxken/Superpowers-socketio-client-plugin",
-		"readmeLink": "https://raw.githubusercontent.com/fraxken/Superpowers-socketio-client-plugin/master/README.md"
-	},
-	{
 		"name": "TypeScript server plugin",
 		"author":  "ralmn",
 		"repoLink":  "https://github.com/ralmn/superpowers-typescript-server-plugin",
