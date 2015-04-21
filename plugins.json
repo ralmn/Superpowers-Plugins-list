@@ -70,19 +70,19 @@
 		"name": "Validator plugin",
 		"author":  "fraxken",
 		"repoLink":  "https://github.com/fraxken/superpowers-validator-plugin",
-		"readmeLink": "https://fraxken.githubusercontent.com/fraxken/superpowers-validator-plugin/master/README.md"
+		"readmeLink": "https://raw.githubusercontent.com/fraxken/superpowers-validator-plugin/master/README.md"
 	},
 	{
 		"name": "Stats.js plugin",
 		"author":  "fraxken",
 		"repoLink":  "https://github.com/fraxken/superpowers-stats-plugin",
-		"readmeLink": "https://fraxken.githubusercontent.com/fraxken/superpowers-stats-plugin/master/README.md"
+		"readmeLink": "https://raw.githubusercontent.com/fraxken/superpowers-stats-plugin/master/README.md"
 	},
 	{
 		"name": "Notify.js plugin",
 		"author":  "fraxken",
 		"repoLink":  "https://github.com/fraxken/superpowers-notifyjs-plugin",
-		"readmeLink": "https://fraxken.githubusercontent.com/fraxken/superpowers-notifyjs-plugin/master/README.md"
+		"readmeLink": "https://raw.githubusercontent.com/fraxken/superpowers-notifyjs-plugin/master/README.md"
 	}
 	
 
