@@ -24,13 +24,6 @@
 		"readmeLink": "https://raw.githubusercontent.com/florentpoujol/superpowers-flang-plugin/master/readme.md"
 	},
 	{
-		"name": "Font plugin",
-		"author" : "ralmn",
-		"repoLink": "https://github.com/ralmn/superpowers-font-plugin",
-		"readmeLink": "https://raw.githubusercontent.com/ralmn/superpowers-font-plugin/master/README.md"
-		
-	},
-	{
 		"name": "THREE.js plugin",
 		"author":  "Florent POUJOL",
 		"repoLink":  "https://github.com/florentpoujol/superpowers-threejs-plugin",
@@ -61,7 +54,7 @@
 		"readmeLink": "https://raw.githubusercontent.com/ralmn/superpowers-typescript-server-plugin/master/README.md"
 	},
 	{
-		"name": "Socket.IO client & server plugin",
+		"name": "Socket.IO server plugin",
 		"author":  "ralmn",
 		"repoLink":  "https://github.com/ralmn/superpowers-socketio-plugin",
 		"readmeLink": "https://raw.githubusercontent.com/ralmn/superpowers-socketio-plugin/master/README.md"
