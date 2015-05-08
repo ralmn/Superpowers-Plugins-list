@@ -96,6 +96,13 @@
 
 		"readmeLink": "https://raw.githubusercontent.com/fraxken/superpowers-notifyjs-plugin/master/README.md"
 
+	},
+	{
+		"name": "EasyStarJS plugin",
+		"author":  "ralmn",
+		"repoLink":  "https://github.com/ralmn/EasyStarJS-Superpowers-plugins",
+		"readmeLink": "https://raw.githubusercontent.com/ralmn/EasyStarJS-Superpowers-plugins/master/README.MD"
+
 	}
 	
 
