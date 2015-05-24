@@ -36,28 +36,10 @@
 		"readmeLink": "https://raw.githubusercontent.com/florentpoujol/superpowers-dom-plugin/master/readme.md"
 	},
 	{
-		"name": "Camera Preview plugin",
-		"author":  "ralmn",
-		"repoLink":  "https://github.com/ralmn/superpowers-camera-preview-plugin",
-		"readmeLink": "https://raw.githubusercontent.com/ralmn/superpowers-camera-preview-plugin/master/README.md"
-	},
-	{
 		"name": "Docs browser",
 		"author":  "Florent POUJOL",
 		"repoLink":  "https://github.com/florentpoujol/superpowers-docs-browser-plugins",
 		"readmeLink": "https://raw.githubusercontent.com/florentpoujol/superpowers-docs-browser-plugins/master/readme.md"
-	},
-	{
-		"name": "TypeScript server plugin",
-		"author":  "ralmn",
-		"repoLink":  "https://github.com/ralmn/superpowers-typescript-server-plugin",
-		"readmeLink": "https://raw.githubusercontent.com/ralmn/superpowers-typescript-server-plugin/master/README.md"
-	},
-	{
-		"name": "Socket.IO server plugin",
-		"author":  "ralmn",
-		"repoLink":  "https://github.com/ralmn/superpowers-socketio-plugin",
-		"readmeLink": "https://raw.githubusercontent.com/ralmn/superpowers-socketio-plugin/master/README.md"
 	},
 	{
 		"name": "Jquery plugin",
