@@ -24,6 +24,12 @@
 		"readmeLink": "https://raw.githubusercontent.com/florentpoujol/superpowers-flang-plugin/master/readme.md"
 	},
 	{
+		"name": "fGui",
+		"author":  "Florent POUJOL",
+		"repoLink":  "https://github.com/florentpoujol/superpowers-fgui-plugin",
+		"readmeLink": "https://raw.githubusercontent.com/florentpoujol/superpowers-fgui-plugin/master/readme.md"
+	},
+	{
 		"name": "THREE.js plugin",
 		"author":  "Florent POUJOL",
 		"repoLink":  "https://github.com/florentpoujol/superpowers-threejs-plugin",
