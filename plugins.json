@@ -91,6 +91,13 @@
 		"repoLink":  "https://github.com/ralmn/EasyStarJS-Superpowers-plugins",
 		"readmeLink": "https://raw.githubusercontent.com/ralmn/EasyStarJS-Superpowers-plugins/master/README.MD"
 
+	},
+	{
+		"name": "Superpowers fText plugin",
+		"author": "Florent POUJOL",
+		"repoLink":  "https://github.com/florentpoujol/superpowers-ftext-plugin",
+		"readmeLink": "https://raw.githubusercontent.com/florentpoujol/superpowers-ftext-plugin/master/readme.MD"
+		
 	}
 	
 
